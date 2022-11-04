@@ -9,16 +9,8 @@
 This is a portfolio created by me (Gustavo Carrillo) with the aim to show the work I have done to potential employers or anyone who is interested. This webpage was created to show my ability to create a website from scratch as show my mastery over HTML and CSS. As of this moment, I have two completed works (not including this webpage).
 
 ## Links
-- [My Portfolio]()
-- [My Portfolio Repository]()
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [My Portfolio](https://0zrk23.github.io/my-portfolio/)
+- [My Portfolio Repository](https://github.com/0zrk23/my-portfolio)
 
 ## Usage
 
